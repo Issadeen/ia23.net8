@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Issaerium-23</string>
+    <string name="login">Login</string>
+    <string name="sign_up">Sign Up</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="confirm_password">Confirm Password</string>
+    <string name="work_id">Work ID</string>
+    <string name="signing_in">Signing in...</string>
+    <string name="creating_account">Creating account...</string>
+    <string name="reset_password">Reset Password</string>
+    <string name="home">Home</string>
+    <string name="truck_details">Truck Details</string>
+    <string name="new_trucks">New Trucks</string>
+    <string name="work_details">Work Details</string>
+    <string name="wallet">Wallet</string>
+    <string name="logout">Logout</string>
+    <string name="dark_theme">Dark Theme</string>
+    <string name="light_theme">Light Theme</string>
+    <!-- and so on for all the strings used in the app -->
+</resources>
